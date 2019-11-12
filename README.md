@@ -1,3 +1,2 @@
 # sublime
-[Markdown-settings](/settings/markdown.md)
-as
+[Markdown-settings](/settings/markdown.md)  
