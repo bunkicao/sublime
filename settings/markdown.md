@@ -1,4 +1,4 @@
-# sublime-Markdown setting
+# Sublime-Markdown settings
 
 | 插件 | 功能 |
 |---- |---- |
@@ -28,3 +28,4 @@
 #2. Markdown LiveReload
 ## 安装并配置LiveReload
 <font color=FF0000>`Ctrl+shift+p`</font>, 输入<font color=#FF0000>LiveReload: Enable/disable plug-in</font>, 选择<font color=#FF0000>Simple Reload</font>或<font color=#FF0000>Simple Reload with delay (400ms)</font>
+- asas  
