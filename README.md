@@ -1,1 +1,3 @@
-# sublime-Markdown
+# sublime
+[Markdown-settings](/settings/markdown.md)
+as
